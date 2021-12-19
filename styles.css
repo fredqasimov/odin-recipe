@@ -1,3 +1,16 @@
+.link {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
 p {
-    color: blue;
+    font-size: 18px;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+}
+* {
+    text-align: center;
 }
